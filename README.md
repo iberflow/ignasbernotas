@@ -1,4 +1,6 @@
-<img align="right" alt="Github Stats" src="https://github-stats-wheat.vercel.app/api?username=ignasbernotas&count_private=true&include_all_commits=true&show_icons=true&layout=compactcustom_title=Github Stats&theme=tokyonight" />
+<div>
+<img align="right" alt="Github Stats" src="https://github-stats-wheat.vercel.app/api?username=ignasbernotas&count_private=true&include_all_commits=true&show_icons=true&layout=compact&custom_title=Github Stats&hide_title=true" />
+</div>
 
 ### 👋 Hi, I'm Ignas
 Software Engineer, Team Lead
